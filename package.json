@@ -1,6 +1,19 @@
 {
-  "name": "react-boilerplate",
   "version": "1.0.0",
+  "name": "@huongttt-vbee/react-boilerplate",
+  "description": "react-boilerplate",
+  "author": {
+    "name": "huongttt",
+    "email": "huongttt@vbee.vn"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/huongttt-vbee/react-boilerplate.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-scripts build",
